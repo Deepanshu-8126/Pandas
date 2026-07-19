@@ -17,5 +17,5 @@ eda
 work with multiple datasets 
 clean data make visuals working with data is very cool convert the raw data into meaning insights 
 
-# note guyss 
+# note 
 i have attached revision sheet also all pandas functions workflow you can check them and that will help.you for revision or  also if you starting this library .
